@@ -1,0 +1,27 @@
+p {
+  font-family: fantasy;
+  font-size: 14pt;
+  color: white;
+}
+body {
+  background-color: #0000ff;
+}
+.subtitle {
+  color: #ffffff;
+  font-style: bold;
+}
+img {
+  padding: 10px 50px 20px;
+  margin: 10px 50px 20px;
+  background-color: #ffd500;
+  height: 500px;
+}
+button {
+  background-color: #0cf708;
+}
+h1 {
+  color: #ffffff;
+}
+h2 {
+  color: #ffffff;
+}
